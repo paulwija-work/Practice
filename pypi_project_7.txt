@@ -1,0 +1,10 @@
+vmnet==0.2.40
+exatomic==0.2.14
+redis-helper==0.3.13
+tmap==1.0.2
+libmozdata==0.1.27
+onepanel==2.12.12b10
+mudkip==0.1.5
+infra-buddy==0.1.74
+dlhub-sdk==0.7.2
+site-discovery==0.1.1

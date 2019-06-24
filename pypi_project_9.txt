@@ -1,0 +1,10 @@
+bespin-cli==0.0.11
+stis_cti==0.4-beta9
+django-kong-admin==0.4.0
+imtools==1.0.2
+chatterbot==1.0.5
+django-datebook==1.2.0
+tellurium==2.0.5
+forge-event-chain==0.18.17
+oslo-privsep==1.27.0
+coala==0.12.0.dev20170623170820

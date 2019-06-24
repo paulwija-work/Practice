@@ -1,0 +1,10 @@
+flasker==0.1.4
+django-budget==0.9.1
+dfp-sync==0.1.0
+iparapheur-utils.beta==0.0.1.post10139
+odoo10-addons-oca-account-analytic==10.0.20170609
+meeshkan==0.1.1
+wc18-cli==0.0.1.3
+ark==2.0.15
+apidev-coop-cms==1.2.23
+opc-app==1.0.0.0

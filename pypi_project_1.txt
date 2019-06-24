@@ -1,0 +1,10 @@
+conan-ue4cli==0.0.5
+libcnmc==0.14.0
+fzutils==0.2.7.4
+djcloudbridge==0.2.1
+keybone==0.2.1
+ftw.publisher.sender==2.4.0
+etcd-cli==0.1.post7
+oslo.serialization==1.10.0
+aergo-herapy==0.1.6
+rpi-displays==0.1.2
